@@ -41,8 +41,3 @@ function raiz(){
 
     document.getElementById('result').value = result;
 }
-
-function clearAll() {
-    let display = document.querySelector('input');
-    display.value = '';
-  }
