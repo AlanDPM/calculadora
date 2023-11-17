@@ -15,8 +15,7 @@ body{
     background-color: rgb(15, 112, 104);
     color: white;
     width: 350px;   
-    margin: 20px;
-    padding: 30px;
+    padding: 25px;
 }
 
 form {
@@ -33,12 +32,12 @@ form p {
 
 input[type="text"]{
     width: 110%;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     padding: 20px;
     font-family: monospace;
-    border-radius: .5rem;
+    border-radius: .8rem;
     text-align: left;
-    font-weight: 600;
+    font-weight: 700;
 }
 
 .btn{
@@ -52,7 +51,7 @@ input[type="text"]{
     display: center;
     justify-content: center;
     align-items: center;
-    border-radius: .5rem;
+    border-radius: .8rem;
     cursor: pointer;
 }
 
@@ -63,7 +62,7 @@ input[type="text"]{
     width: 100%;
     padding: 1.5rem .5rem;
     display: center;
-    justify-content: center;
+    justify-content: right;
     align-items: center;
     border-radius: .5rem;
     cursor: pointer; 
